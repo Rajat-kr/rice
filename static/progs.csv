@@ -76,3 +76,34 @@ A,mutt-wizard-git,"is a light-weight terminal-based email system."
 ,moreutils,"is a collection of useful unix tools."
 ,tesseract,"command-line OCR engine for advance maimpick"
 ,tesseract-data-eng,"english language pack for OCR"
+A,p7zip-full-bin,"zipping tool"
+,android-tools,"android"
+,artix-archlinux-support,"arch support"
+,audactiy,"audio program"
+,bluez-utils,"bluetooth"
+,bluez-runit,"bluetoothd"
+,calibre,"books"
+,cronie,"cron"
+,cups,"printer"
+,cups-runit,"printerd"
+A,espeak,"speaking"
+,gimp,"image editor"
+,gutenprint,"another printer"
+A,ifuse-git,"mount iphones"
+,immich-go,"immich uploader"
+A,kdeconnnect,"kdeconnect"
+A,libimobiledevice-git,
+A,libreoffice-still-en-gb,
+A,megabasterd-bin,
+,sdcv,
+A,signal-cli-bin,
+,signal-desktop,
+,tailscale,"local vpn",
+,tailscale-runit,"vpnd",
+A,ungoogled-chromium-bin,
+
+
+
+
+
+
