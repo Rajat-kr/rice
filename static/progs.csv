@@ -92,15 +92,15 @@ A,espeak,"speaking"
 A,ifuse-git,"mount iphones"
 ,immich-go,"immich uploader"
 A,kdeconnnect,"kdeconnect"
-A,libimobiledevice-git,
-A,libreoffice-still-en-gb,
-A,megabasterd-bin,
-,sdcv,
-A,signal-cli-bin,
-,signal-desktop,
-,tailscale,"local vpn",
-,tailscale-runit,"vpnd",
-A,ungoogled-chromium-bin,
+A,libimobiledevice-git,"ios"
+A,libreoffice-still-en-gb,"office"
+A,megabasterd-bin,"mega"
+,sdcv,"dict"
+A,signal-cli-bin,"signal term"
+,signal-desktop,"signal desktop"
+,tailscale,"local vpn"
+,tailscale-runit,"vpnd"
+A,ungoogled-chromium-bin,"chrome"
 
 
 
